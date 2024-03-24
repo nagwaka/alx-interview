@@ -7,7 +7,7 @@ calculates the fewest number of operations needed to result in
 
 def minOperations(n):
     """
-    calculate the fewest number of operations needed to result in 
+    calculate the fewest number of operations needed to result in
     exactly n H characters in the file.
     """
     # all outputs should be at least 2 char: (min, Copy All => Paste)
